@@ -1,0 +1,3 @@
+mmh3
+requests
+shodan
